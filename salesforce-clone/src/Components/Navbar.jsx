@@ -14,7 +14,13 @@ const Navbar = () => {
       style={{
         display: "flex",
         boxShadow: "rgba(33, 35, 38, 0.1) 0px 10px 10px -10px",
-        paddingBottom: "20px"
+        paddingBottom: "20px",
+        position: "fixed",
+        top: 0,
+        left: 0,
+        right: 0,
+        zIndex: 999,
+        backgroundColor: "#FFF",
       }}
     >
       <div
