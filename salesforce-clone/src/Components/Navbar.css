@@ -1,0 +1,89 @@
+/* Navbar.css */
+.image-88 {
+  padding: 22px 0px 0px 75px;
+  vertical-align: middle;
+  display: inline-block;
+  height: 26px;
+  margin-right: 252px;
+}
+
+.container-62 {
+  display: flex;
+  align-items: center;
+}
+
+.brand {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.brand img {
+  width: 161px;
+}
+
+.navbar p {
+  margin: 0 10px;
+  color: #335;
+  cursor: pointer;
+  margin-left: 32px;
+  font-size: 15.6px;
+}
+
+.navbar p:hover {
+  color: #555;
+}
+
+/* Sign In Button */
+.navbar button.navButton {
+  padding: 10px 13px;
+  background: white;
+  color: #333;
+  border: 2px solid black;
+  border-radius: 8px;
+  margin-left: 50px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+/* Get Started Button */
+.navbar button.getStartedButton {
+  padding: 12px 13px;
+  background: black;
+  color: white;
+  border: 1px solid #333;
+  border-radius: 8px;
+  margin-left: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Media Queries */
+@media screen and (max-width: 600px) {
+  .image-88 {
+    padding: 22px 0px 0px 20px;
+    margin-right: 10px;
+  }
+
+  .container-62 {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+  }
+
+  .navbar p {
+    margin: 5px;
+    font-size: 14px;
+  }
+
+  .navbar button.navButton,
+  .navbar button.getStartedButton {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+}
+
+
+
+/* .....................Homepage.................... */

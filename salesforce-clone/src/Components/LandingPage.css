@@ -1,0 +1,248 @@
+.bestway {
+  text-align: center;
+}
+
+.heading-22 {
+  font-weight: 800;
+  line-height: 1.1em;
+  text-align: center;
+  margin: 1em 2em 0.6em;
+  font-size: 4.5em;
+}
+
+.heading23 {
+  text-align: center;
+}
+
+.text-block-23 {
+  color: rgba(51, 51, 51, 0.61);
+  text-align: center;
+  margin-left: 8em;
+  margin-right: 8em;
+  font-size: 1.5em;
+  font-weight: 300;
+  line-height: 1.5em;
+  margin-top: 55px;
+}
+
+.enteryouremail {
+  letter-spacing: 1px;
+  margin: 0 1em 0 0;
+  padding: 1em 10em 15px 20px;
+  font-family: Avertastd, sans-serif;
+  font-size: 110%;
+  line-height: 105%;
+  flex: 0 auto;
+  border-radius: 10px;
+  border: 1px solid rgb(194, 194, 194);
+  font-weight: 700;
+}
+
+.getdemo {
+  z-index: auto;
+  direction: ltr;
+  letter-spacing: 1px;
+  object-fit: contain;
+  border-radius: 10px;
+  flex: 0 auto;
+  order: 1;
+  font-family: Avertastd, sans-serif;
+  margin-top: 40px;
+  padding: 1.05em 2.1em 17px 2em;
+  font-style: normal;
+  font-size: 110%;
+  line-height: 105%;
+  border: 1px solid gray;
+  background-color: #285fca;
+  color: #fff;
+  font-weight: 700;
+}
+
+.fourpic {
+  margin-top: 70px;
+  width: 100%;
+}
+
+.heading {
+  color: #000;
+  margin-top: 1.8em;
+  margin-bottom: 0;
+  font-family: Avertastd, sans-serif;
+  font-weight: 700;
+  text-align: center;
+  font-size: 40px;
+}
+
+.sevenpics img {
+  width: 160px;
+  padding: 9px;
+}
+
+.sevenpics {
+  padding: 50px;
+  margin-top: 20px;
+}
+
+.simmonpage {
+  border: 1px solid rgb(204, 204, 204);
+  width: 400px;
+  height: 670px;
+  border-radius: 25px;
+}
+
+.simmonpage1 {
+  border: 1px solid rgb(204, 204, 204);
+  width: 400px;
+  height: 610px;
+  border-radius: 25px;
+}
+
+.simon {
+  width: 30%;
+  padding: 35px 0px 0px 35px;
+}
+
+.simondisplay {
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+.ptagsimon {
+  font-weight: 600;
+  font-size: 22px;
+  margin-top: 50px;
+  margin-left: -120px;
+}
+
+.review {
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 33px;
+  margin-left: 15px;
+}
+
+.reviewtag {
+  margin-left: 15px;
+  margin-top: -10px;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: rgb(167, 167, 167);
+}
+
+.simontag {
+  margin-left: -120px;
+  margin-top: -18px;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: rgb(167, 167, 167);
+}
+
+.simontext {
+  padding: 30px 30px 0px 30px;
+  margin: auto;
+  text-align: center;
+}
+
+.simonprofit {
+  text-align: center;
+  margin: auto;
+}
+
+.simonpercentage {
+  font-size: 110px;
+  font-weight: 600;
+  /* padding-top: -40px; */
+  margin-top: 40px;
+}
+
+.simonaverage {
+  margin-top: -120px;
+  font-size: 21px;
+  letter-spacing: 1px;
+  font-weight: 400;
+  color: rgb(17, 17, 17);
+}
+
+.simonproduct {
+  font-weight: 600;
+  font-size: 18px;
+  margin-top: 75px;
+}
+
+.products {
+  margin: 4em 0.5em 0.5em;
+  font-family: Avertastd, sans-serif;
+  font-size: 1em;
+  font-weight: 600;
+  line-height: 1.5em;
+  margin-left: 30px;
+}
+.products1 {
+  margin: 4em 0.5em 0.5em;
+  font-family: Avertastd, sans-serif;
+  font-size: 1em;
+  font-weight: 600;
+  line-height: 1.5em;
+  margin-left: 8px;
+}
+
+.product-used {
+  color: #2c2c2c;
+  background-color: #d8f7ff;
+  border-radius: 15px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  margin-right: 10px;
+  padding: 5px 14px;
+  font-family: sans-serif;
+  font-size: 0.9em;
+  font-weight: 400;
+  text-decoration: none;
+  display: inline-block;
+  letter-spacing: 1px;
+}
+
+.userPage {
+  display: flex;
+  justify-content: center;
+  column-gap: 20px;
+  margin-top: 45px;
+}
+
+.heading-49 {
+  color: #000;
+  text-align: center;
+  margin-top: 75px;
+  margin-bottom: 80px;
+  font-size: 2.8em;
+  font-weight: 800;
+  line-height: 50px;
+}
+
+.attract {
+  color: #285fca;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 0.5em;
+  font-family: sans-serif;
+  font-size: 2.2em;
+  font-weight: 400;
+  line-height: 1em;
+  letter-spacing: 1.5px;
+  padding: 10px 0px 0px 10px;
+}
+
+.customers {
+  color: rgb(173, 173, 173);
+  border-radius: 15px;
+  margin-top: 3px;
+  margin-bottom: 6px;
+  margin-right: 10px;
+  /* padding: 5px 14px; */
+  font-family: sans-serif;
+  font-size: 1em;
+  text-decoration: none;
+  display: inline-block;
+  letter-spacing: 1.5px;
+  padding: 0px 0px 0px 27px;
+}
