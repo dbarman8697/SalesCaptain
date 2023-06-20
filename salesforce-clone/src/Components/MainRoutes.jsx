@@ -7,7 +7,6 @@ const AllPages = () => {
   return (
     <div>
       <Routes>
-  
         <Route path="/login" element={<Signin />}></Route>
       </Routes>
     </div>
